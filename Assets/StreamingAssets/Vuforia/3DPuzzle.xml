@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<QCARConfig>
+  <Tracking>
+    <ImageTarget name="level2" size="5.000000 5.000000" />
+    <ImageTarget name="start_n2" size="5.000000 4.940828" />
+    <ImageTarget name="start_n1" size="5.000000 4.983687" />
+    <ImageTarget name="t3_" size="5.000000 4.934534" />
+    <ImageTarget name="t4_" size="5.000000 4.991639" />
+    <ImageTarget name="level1" size="5.000000 9.533980" />
+    <ImageTarget name="end_" size="5.000000 4.884170" />
+    <ImageTarget name="start_" size="5.000000 5.049702" />
+    <ImageTarget name="t4" size="5.000000 5.000000" />
+    <ImageTarget name="t3" size="5.000000 4.914773" />
+    <ImageTarget name="t2" size="5.000000 5.049801" />
+    <ImageTarget name="t1" size="5.000000 4.979879" />
+    <ImageTarget name="m2" size="5.000000 5.041254" />
+    <ImageTarget name="m1" size="5.000000 4.992051" />
+    <ImageTarget name="m4" size="5.000000 4.928344" />
+    <ImageTarget name="m3" size="5.000000 4.944708" />
+    <ImageTarget name="m11" size="5.000000 5.206271" />
+  </Tracking>
+</QCARConfig>
